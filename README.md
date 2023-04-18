@@ -4,6 +4,7 @@ Script xcopy untuk windows
 Perbedaan xcopy dengan robocopy
 
 xcopy Digunakan untuk copy volume ke drive lain
+
 Robocopy tidak bisa copy data dari root/ Drive (Hanya bisa di pakai untuk folder)
 
 xcopy "source-data" "target" /d /e /s /y /c
@@ -25,5 +26,7 @@ xcopy "C:\" "D:\" /d /e /s /y /c
 
 
 Memindahkan isi dari Drivve C: ke Drive D:
+
 Save dalam bentuk .dat
+
 dapat di jadwalkan dengan task scheduler
