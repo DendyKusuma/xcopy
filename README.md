@@ -16,7 +16,9 @@ xcopy "source-data" "target" /d /e /s /y /c
 
 Exp:
 
+
 xcopy "C:\" "D:\" /d /e /s /y /c
+
 
 Memindahkan isi dari Drivve C: ke Drive D:
 Save dalam bentuk .dat
